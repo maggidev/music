@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores Base -->
+    <color name="maggi_white">#FFFFFF</color>
+    <color name="maggi_primary">#ff6788</color>
+    <color name="maggi_black">#000000</color>
+    <color name="maggi_gray_100">#F5F5F5</color>
+    <color name="maggi_gray_800">#1A1A1A</color>
+    <color name="maggi_gray_900">#121212</color>
+
+    <!-- Material 3 Colors -->
+    <color name="maggi_background">@color/maggi_white</color>
+    <color name="maggi_surface">@color/maggi_gray_100</color>
+    <color name="maggi_on_background">@color/maggi_black</color>
+    <color name="maggi_on_surface">@color/maggi_gray_800</color>
+    
+    <color name="maggi_primary_button">@color/maggi_black</color>
+    <color name="maggi_on_primary_button">@color/maggi_white</color>
+    
+    <!-- Transparências -->
+    <color name="maggi_transparent_black">#80000000</color>
+    <color name="maggi_blur_background">#33FFFFFF</color>
+    
+    <!-- Material 3 Primary Colors -->
+    <color name="md_theme_light_primary">#7F52FF</color>
+    <color name="md_theme_light_on_primary">#FFFFFF</color>
+    <color name="md_theme_light_primary_container">#EADDff</color>
+    <color name="md_theme_light_on_primary_container">#21005E</color>
+    
+    <!-- Material 3 Secondary Colors -->
+    <color name="md_theme_light_secondary">#625B71</color>
+    <color name="md_theme_light_on_secondary">#FFFFFF</color>
+    <color name="md_theme_light_secondary_container">#E8DEF8</color>
+    <color name="md_theme_light_on_secondary_container">#1D192B</color>
+</resources>

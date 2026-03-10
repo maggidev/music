@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores Base Dark -->
+    <color name="maggi_background">#141414</color>
+    <color name="maggi_surface">#202020</color>
+    <color name="maggi_on_background">#FFFFFF</color>
+    <color name="maggi_on_surface">#E0E0E0</color>
+    
+    <color name="maggi_primary_button">#FFFFFF</color>
+    <color name="maggi_on_primary_button">#000000</color>
+    
+    <color name="maggi_blur_background">#33141414</color>
+    
+    <!-- Material 3 Dark Primary Colors -->
+    <color name="md_theme_dark_primary">#D0BCFF</color>
+    <color name="md_theme_dark_on_primary">#370B1E</color>
+    <color name="md_theme_dark_primary_container">#5A2D82</color>
+    <color name="md_theme_dark_on_primary_container">#EADDff</color>
+    
+    <!-- Material 3 Dark Secondary Colors -->
+    <color name="md_theme_dark_secondary">#CCC7F0</color>
+    <color name="md_theme_dark_on_secondary">#332D41</color>
+    <color name="md_theme_dark_secondary_container">#4A4458</color>
+    <color name="md_theme_dark_on_secondary_container">#E8DEF8</color>
+</resources>

@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/maggipriv/settings.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 15,
+          "index": 387,
+          "line": 20
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/maggipriv/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 67,
+          "index": 2207,
+          "line": 71
+        },
+        "start": {
+          "column": 67,
+          "index": 2207,
+          "line": 71
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/maggipriv/app/src/main/res/layout/activity_player.xml",
+      "selection": {
+        "end": {
+          "column": 36,
+          "index": 952,
+          "line": 24
+        },
+        "start": {
+          "column": 36,
+          "index": 952,
+          "line": 24
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/maggipriv/app/build.gradle.kts"
+}
